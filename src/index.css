@@ -1,0 +1,12 @@
+body{
+  padding: 20px;
+}
+
+.sd-dropdown{
+  margin-bottom: 90px;
+  margin-top: 50px;
+}
+
+.sd-label{
+  display: block;
+}
